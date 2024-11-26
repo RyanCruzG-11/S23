@@ -1,9 +1,9 @@
 const cacheName = "S23-WebGL23-0.1";
 const contentToCache = [
-    "Build/Build.loader.js",
-    "Build/Build.framework.js",
-    "Build/Build.data",
-    "Build/Build.wasm",
+    "Build/S23.loader.js",
+    "Build/S23.framework.js",
+    "Build/S23.data",
+    "Build/S23.wasm",
     "TemplateData/style.css"
 
 ];
